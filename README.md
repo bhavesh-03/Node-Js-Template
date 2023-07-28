@@ -7,7 +7,7 @@ kill -9 <PROCESS_ID>
 npm install nodemon
 - npx (node pacakge runner) is to execute npm module / npm package runner 
 npx nodemon src/index.js 
-- to run a script
+- To run a script
 npm run <scripe_name>
 
 ### INSIDE THE FOLDER
